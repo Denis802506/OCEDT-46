@@ -41,6 +41,7 @@
   </languages>
   <commonModules>CommonModule.РаботаСФормойСервер</commonModules>
   <commonModules>CommonModule.РаботаСФоромойКлиент</commonModules>
+  <constants>Constant.Пример</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ПриходТовара</documents>
 </mdclass:Configuration>
