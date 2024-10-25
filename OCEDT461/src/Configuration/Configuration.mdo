@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cbb10505-ae42-4fe1-ae35-69a631d566d7">
+  <name>Магазинчик</name>
+  <synonym>
+    <key>ru</key>
+    <value>Магазинчик</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="570cffd6-5242-4545-a3f8-4d1438c65541"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="67901451-0bfa-4488-aca0-c297f86f6dd0"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="5f4b1016-a0ca-4294-9a32-83d99116cffd"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="ddf874f2-9f5f-4050-8fc7-154468c7f644"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="c11047c0-59b5-4497-91fb-5b5e9b172cfb"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="97185612-6390-4d96-ac04-18df1649dddb"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="579897cc-ed4a-47aa-98aa-0611b1d13ee3"/>
+  <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
+  <languages uuid="77b32a3c-7c09-4cef-a662-91f0d84148cf">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.РаботаСФормойСервер</commonModules>
+  <commonModules>CommonModule.РаботаСФоромойКлиент</commonModules>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ПриходТовара</documents>
+</mdclass:Configuration>
