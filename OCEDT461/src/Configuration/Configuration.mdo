@@ -43,5 +43,7 @@
   <commonModules>CommonModule.РаботаСФоромойКлиент</commonModules>
   <constants>Constant.Пример</constants>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Производитель</catalogs>
   <documents>Document.ПриходТовара</documents>
+  <documents>Document.РеализацияТоваров</documents>
 </mdclass:Configuration>
