@@ -34,11 +34,13 @@
     <name>Комментарий</name>
     <synonym>
       <key>ru</key>
-      <value>Комментарий</value>
+      <value>Комментарий № 1</value>
     </synonym>
     <type>
       <types>String</types>
-      <stringQualifiers/>
+      <stringQualifiers>
+        <length>25</length>
+      </stringQualifiers>
     </type>
     <multiLine>true</multiLine>
     <minValue xsi:type="core:UndefinedValue"/>
